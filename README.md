@@ -599,3 +599,15 @@ Simulasi orang berjalan
 
 ### Github Repository
 
+## Group XL
+
+### Members
+*(141111030) Dicky Ari Wicaksono
+*(141111074) Rissa Arimawan
+
+### Topik & Description
+* Simulasi Taman
+
+### Github Repository
+[https://github.com/arema2017/UasGRAFIS]
+
