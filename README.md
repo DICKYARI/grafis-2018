@@ -589,6 +589,16 @@ Simulasi orang berjalan
 
 ## Group XXXIX
 
+###
+*(141111030) Dicky Ari Wicaksono
+*(141111074) Rissa Arimawan
+
+### Topik & Description
+* Simulasi Taman
+
+### Github Repository
+[https://github.com/arema2017/UasGRAFIS]
+
 ### Members
 
 * (141111092) Andrew Fide Prasetyo
