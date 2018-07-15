@@ -610,5 +610,5 @@ Simulasi orang berjalan
 *Simulasi Taman
 
 ### Github Repository
-
+[https://github.com/DICKYARI/UasGrafis-2018] (https://github.com/DICKYARI/UasGrafis-2018)
 
